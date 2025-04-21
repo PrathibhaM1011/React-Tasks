@@ -33,6 +33,10 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+<<<<<<< HEAD
+=======
+  color: white;
+>>>>>>> 80cadfe09fed9d5514701ed9c3eb68e88b66b6d7
 }
 
 button {
